@@ -7,7 +7,7 @@ INCUBATOR HUB: THIS REPOSITORY CONTAINS DETAILED ANALYSIS OF THE SALES PERFORMAN
 ### PROJECT OVERVIEW.
 
 
-The aim of this project is to analysis the sales performance of a retail store by exploring sales data to cover key insight. It also focus on sales data such as sales transaction, product category, regional sales transaction.
+The aim of this project is to analysis the sales performance of a retail store by exploring sales data to cover key insight. It also focus on sales data such as sales transaction, product category, regional sales transaction..
 
 ### Data sources
 
