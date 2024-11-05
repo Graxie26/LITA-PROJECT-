@@ -48,8 +48,11 @@ And here follows the barchart on the customer data sheet
 ![Pivot Table customerDate](https://github.com/user-attachments/assets/8ff12378-cff4-4ad1-ae84-9b5a2535c3ac)
 
 ### Exploratory Data Analysis
----
-Line of queries used
+This includes Line some lines of code or queries
+
+```SQL
+
+SELECT * FROM TABLE
 
 ----RETRIEVE THE TOTAL SALES FOR EACH PRODUCT CATEROGY-----
 SELECT SUM(Total_Sales) AS Total_Revenue FROM SalesData;
@@ -91,6 +94,7 @@ SELECT DATEPART(YEAR, OrderDate) AS Year, SUM(Total_Sales) AS Total_Yearly_Sales
  ---
  Importing the data from the excel sheet to the powerbi 
  Follow by cleaning and sorting down to the visuals
+
  ![Screenshot (70)](https://github.com/user-attachments/assets/884f6d8d-211d-4c18-a90d-2dd3e225b9f1)
  
  
