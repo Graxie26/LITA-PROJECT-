@@ -90,21 +90,9 @@ SELECT DATEPART(YEAR, OrderDate) AS Year, SUM(Total_Sales) AS Total_Yearly_Sales
     
     [CustomerDate SQL](https://github.com/user-attachments/assets/81e95e60-9c60-4416-8ecc-b64dd859effc)
 
- ### Visualization on PowerBi
+### Visualization on PowerBi
  ---
  Importing the data from the excel sheet to the powerbi 
  Follow by cleaning and sorting down to the visuals
-
+ 
  ![Screenshot (70)](https://github.com/user-attachments/assets/884f6d8d-211d-4c18-a90d-2dd3e225b9f1)
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
