@@ -52,7 +52,7 @@ This includes Line some lines of code or queries
 
 SQL
 
-SELECT * FROM TABLE
+SELECT * FROM SalesData
 
 ----RETRIEVE THE TOTAL SALES FOR EACH PRODUCT CATEROGY-----
 SELECT SUM(Total_Sales) AS Total_Revenue FROM SalesData;
