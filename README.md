@@ -17,9 +17,9 @@ The primary of this data used is  LITA Capstone Dataset.xlsx…
 ### Tools
 ---
 - Microsoft Excel:
-  1. For data analysis
-  2. For pivot table as summary
-  3. To create charts for report
+  1. For data cleaning
+  2. For Analysis
+  3. For Data Visualization
 
 
 - SQL (Stuctured Query Language)
